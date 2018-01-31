@@ -1,0 +1,5 @@
+.DS_Store
+*.sublime-project
+*.sublime-workspace
+goodweather/composer.lock
+petit mémo json.txt
